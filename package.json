@@ -1,0 +1,16 @@
+{
+  "author": "Quirky",
+  "name": "prettySocial",
+  "description": "NPM'd version of https://github.com/sonnyt/prettySocial",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quirkyinc/prettySocial.git"
+  },
+  "main": "jquery.prettySocial.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^2.1.3"
+  },
+  "optionalDependencies": {}
+}
